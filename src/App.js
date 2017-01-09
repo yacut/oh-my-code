@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Oh My Code</h2>
         </div>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          This page helps you increase your productivity and write source code better.
         </p>
       </div>
     );
