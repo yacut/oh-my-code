@@ -2,6 +2,7 @@
   "name": "oh-my-neovim",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://oh-my-neovim.github.io/",
   "devDependencies": {
     "react-scripts": "0.8.5"
   },
